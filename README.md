@@ -1,5 +1,4 @@
-# Assignment-2-Data-Cleaning-and-Transformation
-# 🧹 Data Cleaning and Formatting Assignment
+# 🧹 Data Cleaning and Transformation
 
 This project focuses on essential data preprocessing techniques to ensure dataset accuracy, consistency, and usability. The tasks below outline the steps required to clean and format a dataset effectively.
 
